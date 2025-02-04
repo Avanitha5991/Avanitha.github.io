@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Terminal Productivity Tips & Tricks"
 date: 2025-01-10
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 🚀 Linux Terminal Productivity Tips & Tricks
