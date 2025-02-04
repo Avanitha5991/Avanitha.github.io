@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Performance Monitoring & Optimization"
 date: 2025-01-08
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 🚀 Linux Performance Monitoring
