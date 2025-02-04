@@ -2,7 +2,7 @@
 layout: post
 title: "Linux File & Directory Navigation Tricks"
 date: 2025-01-12
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 📂 Linux File & Directory Navigation Tricks
