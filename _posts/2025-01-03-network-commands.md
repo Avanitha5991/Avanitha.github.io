@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Networking Commands"
 date: 2025-02-07
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 🌍 Linux Networking Commands
