@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linux Commands Notes Blog</title>
+    <link rel="stylesheet" href="styles.css"> <!-- If you have a CSS file for styling -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+</head>
+<body>
+    <h1>Welcome to My Linux Commands Notes Blog</h1>
+    <div>
+        <h2>`echo` - Output Strings</h2>
+        <p><strong>Description:</strong> The `echo` command outputs the string that is passed to it as an argument.</p>
+        <p><strong>Example:</strong></p>
+        <pre>
+            <code id="echo-code">$ echo "Hello World"</code>
+            <button class="copy-btn" data-clipboard-target="#echo-code">Copy</button>
+        </pre>
+        <p><strong>Output:</strong></p>
+        <pre><code>Hello World</code></pre>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var clipboard = new ClipboardJS('.copy-btn');
+        clipboard.on('success', function(e) {
+            console.info('Text copied to clipboard:', e.text);
+            e.clearSelection();
+        });
+        clipboard.on('error', function(e) {
+            console.error('Action:', e.action);
+            console.error('Trigger:', e.trigger);
+        });
+    });
+    </script>
+</body>
+</html>
 
