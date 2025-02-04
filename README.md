@@ -9,7 +9,7 @@ Linux is a free, open-source operating system based on Unix. It powers everythin
 
 3. Distribution: a version of the Linux operating system that includes the Linux kernel and additional software
 
-###Basics
+### Basics
 1. outputs the string that is passed to it as an argument
    $ echo "Hello World"
    Hello World
@@ -21,3 +21,7 @@ Linux is a free, open-source operating system based on Unix. It powers everythin
 3. outputs the username of the current user
    $ whoami
    p0tt3r
+
+4. outputs the present working directory
+   $ pwd
+   /Users/p0tt3r/dev
