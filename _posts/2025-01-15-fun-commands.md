@@ -2,7 +2,7 @@
 layout: post
 title: "Fun & Hidden Linux Commands"
 date: 2025-01-15
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 🎉 Fun & Hidden Linux Commands
