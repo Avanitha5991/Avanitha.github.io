@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Backup & Restore Commands"
 date: 2025-01-14
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 🛡️ Linux Backup & Restore Commands
