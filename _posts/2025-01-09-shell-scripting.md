@@ -2,7 +2,7 @@
 layout: post
 title: "Shell Scripting & Automation"
 date: 2025-01-09
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 🤖 Shell Scripting & Automation
