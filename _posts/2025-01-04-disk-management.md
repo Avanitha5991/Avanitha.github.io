@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Disk Management Commands"
 date: 2025-01-04
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 💾 Linux Disk Management Commands
