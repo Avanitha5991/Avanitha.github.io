@@ -2,7 +2,7 @@
 layout: post
 title: "Basic Linux Commands"
 date: 2025-01-01
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 🖥️ Basic Linux Commands
