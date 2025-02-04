@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Process Management Commands"
 date: 2025-01-13
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # ⚙️ Linux Process Management
