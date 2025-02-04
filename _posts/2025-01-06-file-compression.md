@@ -2,7 +2,7 @@
 layout: post
 title: "Linux File Compression & Archiving"
 date: 2025-01-06
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 📦 Linux File Compression & Archiving
