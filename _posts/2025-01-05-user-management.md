@@ -2,7 +2,7 @@
 layout: post
 title: "Linux User Management Commands"
 date: 2025-01-05
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 👥 Linux User Management
