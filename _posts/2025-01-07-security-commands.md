@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Security & Firewall Commands"
 date: 2025-01-07
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 🔐 Linux Security & Firewall Commands
