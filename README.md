@@ -14,5 +14,5 @@ Linux is a free, open-source operating system based on Unix. It powers everythin
 **Description:** The `echo` command outputs the string that is passed to it as an argument.
 **Example:**
 ```bash
-$ echo "Hello World"
+echo "Hello World"
 
