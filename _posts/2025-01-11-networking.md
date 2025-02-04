@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Networking & Troubleshooting Commands"
 date: 2025-01-11
-categories: linux
+categories: [Linux, Commands]
 ---
 
 # 🌐 Linux Networking & Troubleshooting Commands
