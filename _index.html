@@ -4,19 +4,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Linux Commands Notes Blog</title>
-    <link rel="stylesheet" href="styles.css"> <!-- If you have a CSS file for styling -->
+    <link rel="stylesheet" href="styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+    <style>
+        .code-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        .code-container code {
+            margin: 0;
+            padding: 0;
+            white-space: pre-wrap;
+        }
+        .copy-btn {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        .copy-btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
     <h1>Welcome to My Linux Commands Notes Blog</h1>
     <div>
         <h2>`echo` - Output Strings</h2>
         <p><strong>Description:</strong> The `echo` command outputs the string that is passed to it as an argument.</p>
-        <p><strong>Example:</strong></p>
-        <pre>
+        <div class="code-container">
             <code id="echo-code">$ echo "Hello World"</code>
             <button class="copy-btn" data-clipboard-target="#echo-code">Copy</button>
-        </pre>
+        </div>
         <p><strong>Output:</strong></p>
         <pre><code>Hello World</code></pre>
     </div>
@@ -36,4 +63,3 @@
     </script>
 </body>
 </html>
-
